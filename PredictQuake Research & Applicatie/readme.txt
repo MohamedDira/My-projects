@@ -8,4 +8,4 @@ Het tweede bestand betreft de Graphical User Interface waar het voorspellingsmod
 door de gehele map te downloaden.
 Vervolgens, door het bestand 'PredictQuake Applicatie Jupyter' te openen en deze uit te voeren, wordt de applicatie geopend en kan deze gebruikt worden.
 
-Mocht u nog vragen hebben, dan kunt u mij altijd contacteren op "m.dira@outlook.com"
+Mocht u nog vragen hebben, dan kunt u mij altijd contacteren op "m.dira@outlook.com" X
